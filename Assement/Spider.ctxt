@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Spider
+comment0.text=\r\n\ Spider\ is\ the\ prey\ of\ Frog.\r\n\ \r\n\ @Kishan\ Thapa\ 22867601\r\n\ @V1.00\ 6/8/2017\r\n
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ Act\ -\ do\ whatever\ the\ Spider\ wants\ to\ do.\ This\ method\ is\ called\ whenever\r\n\ the\ 'Act'\ or\ 'Run'\ button\ gets\ pressed\ in\ the\ environment.\r\n
+comment2.params=
+comment2.target=void\ turnAtEdge()
+comment3.params=
+comment3.target=void\ randomTurn()
+numComments=4
